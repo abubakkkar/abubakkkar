@@ -1,6 +1,6 @@
 # 💫 About Me:
-I’m a BS Software Engineering student with a strong interest in building practical, real-world solutions through code. I’m currently developing my skills across web development, Python, C#, databases, and exploring areas like Artificial Intelligence and Machine Learning, with hands-on experience gained through academic and personal GitHub projects.<br>I enjoy working on projects that help me understand how software is designed, built, and improved in real environments. From backend logic to database design and web interfaces, I’m continuously learning and experimenting with modern development practices, while also expanding my knowledge in AI/ML concepts and tools.
-
+I am a BS Software Engineering student passionate about software development and problem-solving. I have experience in Python programming, Object-Oriented Programming (OOP) with C#, full-stack development using the .NET Framework, and SQL database management. I also work with front-end technologies including HTML, CSS, and JavaScript to build responsive and user-friendly web applications.
+I enjoy learning new technologies, developing real-world projects, and continuously improving my programming and software engineering skills. Currently, I am focused on strengthening my full-stack development expertise and contributing to innovative software solutions.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-abubakar-84944337a/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:muhammadabubakar85033@gmail.com) 
