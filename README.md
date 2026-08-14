@@ -113,22 +113,9 @@ Creating responsive and user-friendly interfaces using **React, TypeScript, HTML
 
 # 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=abubakkkar&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="180"/>
-  <img src="https://streak-stats.demolab.com/?user=abubakkkar&theme=dark&hide_border=false" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=abubakkkar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="180"/>
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abubakkkar&theme=darkhub&no-frame=true&no-bg=true&margin-w=5&column=7" />
-</p>
+![](https://github-readme-stats.shion.dev/api?username=abubakkkar&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=abubakkkar&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=abubakkkar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
