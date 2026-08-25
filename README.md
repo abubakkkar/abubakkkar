@@ -13,13 +13,13 @@ I enjoy transforming ideas into real-world applications, solving challenging pro
 * 🧠 Interested in **clean code, OOP, APIs, databases, and scalable applications**
 * 🚀 Building projects that solve practical, real-world problems
 * 🤝 Open to **collaboration, internships, and software development opportunities**
-* 📫 Reach me at **[muhammadabubakar85033@gmail.com](mailto:muhammadabubakar85033@gmail.com)**
+* 📫 Reach me at **[muhammadabubakar85033@gmail.com]([mailto:muhammadabubakar85033@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=muhammadabubakar85033@gmail.com))**
 
 ---
 
 ## 🌐 Connect With Me
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:muhammadabubakar85033@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)]([mailto:muhammadabubakar85033@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=muhammadabubakar85033@gmail.com))
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/muhammad-abubakar-84944337a/)
 [![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/abubakkkar)
 [![Portfolio](https://img.shields.io/badge/Portfolio-239120?style=for-the-badge\&logo=portfolio\&logoColor=green)](https://abubakkkar.netlify.app)
