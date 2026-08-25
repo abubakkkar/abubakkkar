@@ -13,7 +13,7 @@ I enjoy transforming ideas into real-world applications, solving challenging pro
 * 🧠 Interested in **clean code, OOP, APIs, databases, and scalable applications**
 * 🚀 Building projects that solve practical, real-world problems
 * 🤝 Open to **collaboration, internships, and software development opportunities**
-* 📫 Reach me at **[muhammadabubakar85033@gmail.com]([mailto:muhammadabubakar85033@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=muhammadabubakar85033@gmail.com))**
+* 📫 Reach me at **[muhammadabubakar85033@gmail.com]((https://mail.google.com/mail/?view=cm&fs=1&to=muhammadabubakar85033@gmail.com))**
 
 ---
 
