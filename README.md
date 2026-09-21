@@ -1,8 +1,8 @@
 # 👋 Hi, I'm AbuBakar
 
-### 💻 Software Engineering Student | Full-Stack Developer | Problem Solver
+### 💻 Software Engineer | Full-Stack Developer | Problem Solver
 
-I'm a **Software Engineering student** passionate about building reliable, scalable, and user-focused software solutions.
+I'm a **Software Engineer** passionate about building reliable, scalable, and user-focused software solutions.
 
 My primary experience is in **C#, .NET, React, TypeScript, Python, and SQL**, with a strong interest in full-stack web development, software architecture, and modern application development.
 
